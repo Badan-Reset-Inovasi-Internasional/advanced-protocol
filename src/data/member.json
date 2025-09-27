@@ -1,0 +1,84 @@
+{
+  "member": {
+    "Researcher": [
+      {
+        "name": "Prof. Dr. Anak Agung Ngurah Ananda Kusuma, M.Eng.",
+        "role": "Wireless, Routing, Resource Allocation, QoS/QoE, Network Protocol",
+        "img": "/memberImage/Dr_Anak_Agung_Ngurah_Ananda_Kusuma_MEng.png",
+        "scholar": "https://scholar.google.com/citations?user=qyLKa2oAAAAJ&hl=en&oi=ao"
+      },
+      {
+        "name": "Dedy Irawan, S.Kom., MT",
+        "role": "Internet Protocol, Modelling and Simulation, Graph Theory & Algorithms",
+        "img": "/memberImage/Dedy_Irawan_SKom_MT.png",
+        "scholar": "https://scholar.google.co.id/citations?user=AH1FzjYAAAAJ&hl=id"
+      },
+      {
+        "name": "Mohammad Hamdani, ST., MTI. (on leave for PhD, KFUPM KSA)",
+        "role": "Networking, Cybersecurity",
+        "img": "/memberImage/Mohammad_Hamdani_ST_MTI_PhD_KFUPM_KSA.png",
+        "scholar": "https://scholar.google.com/citations?user=5gLvfn0AAAAJ&hl=id"
+      },
+      {
+        "name": "Muhammad Iqbal, ST., MTI. (on leave for PhD, Japan)",
+        "role": "",
+        "img": "/memberImage/kosong.png",
+        "scholar": ""
+      },
+      {
+        "name": "Ir. Tahar Agastani, M.Sc.",
+        "role": "Communication Network",
+        "img": "/memberImage/Ir_Tahar_Agastani_MSc.png",
+        "scholar": "https://scholar.google.co.id/citations?user=upZFI2YAAAAJ&hl=id"
+      },
+      {
+        "name": "Xerandy, ST., MT.",
+        "role": "Telecommunication and Networking",
+        "img": "/memberImage/Xerandy_ST_MT.png",
+        "scholar": "https://scholar.google.com/citations?hl=id&user=E_vZSC8AAAAJ"
+      },
+      {
+        "name": "Arfan Ridwan Hartawan, ST. (on leave for Master, UI)",
+        "role": "Telecommunication Network",
+        "img": "/memberImage/Arfan_Ridwan_Hartawan_ST_Master_UI.png",
+        "scholar": "https://scholar.google.com/citations?user=X3U3T_0AAAAJ&hl=id"
+      },
+      {
+        "name": "Sakinah Puspa Anggraeni, S.Tr.T.",
+        "role": "IoT, Microcontroller Embedded System, Telecommunication, Backend Programmer, Big Data/Python Developer",
+        "img": "/memberImage/Sakinah_Puspa_Anggraeni_STrT.png",
+        "scholar": "https://scholar.google.com/citations?user=wfg4ZW4AAAAJ&hl=id"
+      },
+      {
+        "name": "Toto Bachtiar Palokoto, S.ST.",
+        "role": "Image Processing, Python Language, Machine Learning",
+        "img": "/memberImage/Toto_Bachtiar_Palokoto_SST.png",
+        "scholar": "https://scholar.google.com/citations?hl=en&user=QM9Bkx4AAAAJ"
+      },
+      {
+        "name": "Triawan Nugroho, S.Si (on leave for PhD, KSA)",
+        "role": "Computer Network, IoT, Software-Defined Networking, Machine Learning, Deep Learning",
+        "img": "/memberImage/Triawan_Nugroho_SSi_PhD_KSA.png",
+        "scholar": "https://scholar.google.com/citations?user=gJNM2ssAAAAJ&hl=en"
+      },
+      {
+        "name": "Christian Wisnu Purnaadi, M.Kom",
+        "role": "",
+        "img": "/memberImage/kosong.png",
+        "scholar": ""
+      },
+      {
+        "name": "Rifqi Fajar Giyana, ST (on leave for Master, UI)",
+        "role": "Telecommunication",
+        "img": "/memberImage/Rifqi_Fajar_Giyana_ST_Master_UI.png",
+        "scholar": "https://scholar.google.com/citations?user=iwP6UMkAAAAJ&hl=id"
+      },
+      {
+        "name": "Ir. Widrianto Sih Pinastiko, MSc",
+        "role": "Telecommunication Network",
+        "img": "/memberImage/Ir_Widrianto_Sih_Pinastiko_MSc.png",
+        "scholar": "https://scholar.google.com/citations?user=xGaFCAcAAAAJ&hl=id"
+      }
+    ]
+  }
+}

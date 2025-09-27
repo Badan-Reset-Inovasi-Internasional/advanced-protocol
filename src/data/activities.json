@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Network Protocols",
+    "desc": "Research on the design, development, and evaluation of communication protocols across various network layers.",
+    "img": "/kegiatan/gambarlab3.jpeg"
+  },
+  {
+    "title": "Modeling and Simulation/Testbeds",
+    "desc": "Development of network models and test environments to comprehensively evaluate system performance.",
+    "img": "/kegiatan/gambarlab3.jpeg"
+  },
+  {
+    "title": "Quality of Service (QoS) and Quality of Experience (QoE) Analysis",
+    "desc": "Evaluation of technical parameters and user experience in various network scenarios.",
+    "img": "/kegiatan/gambarlab3.jpeg"
+  },
+  {
+    "title": "Disciplinary Convergence",
+    "desc": "Interdisciplinary studies integrating fields such as security, AI, and intelligent systems within the context of telecommunications.",
+    "img": "/kegiatan/gambarlab3.jpeg"
+  }
+]

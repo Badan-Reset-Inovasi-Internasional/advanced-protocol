@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "city",
+    "title": "Smart Cities & IoT Networks",
+    "desc": "Innovative solutions for smart city infrastructures and IoT-based applications."
+  },
+  {
+    "icon": "signal",
+    "title": "Next-Generation Wireless (5G/6G)",
+    "desc": "Advancing the development of 5G and 6G technologies to enable faster and more reliable communication."
+  },
+  {
+    "icon": "robot",
+    "title": "Adaptive & Autonomous Networks",
+    "desc": "Designing intelligent network systems capable of adapting and operating autonomously."
+  },
+  {
+    "icon": "project-diagram",
+    "title": "Large-Scale Data Traffic Management",
+    "desc": "Efficient management and optimization of massive data flows across networks."
+  },
+  {
+    "icon": "stopwatch",
+    "title": "Real-Time Service Quality Measurement",
+    "desc": "Ensuring consistent performance and reliability through real-time monitoring."
+  },
+  {
+    "icon": "brain",
+    "title": "AI-Integrated Networks",
+    "desc": "Integrating AI to enhance decision-making and intelligent automation within network systems."
+  }
+]
